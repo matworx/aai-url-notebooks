@@ -1,5 +1,5 @@
 numpy
 matplotlib
-sklearn
+scikit-learn
 scipy
 kneed
